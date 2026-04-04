@@ -1,4 +1,4 @@
-# RPS-strategy
+# RTS-strategy
 The player controls allied units with the aim of destroying enemy unit squads.
 ## Main features:
 - AI of enemy units
